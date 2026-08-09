@@ -32,7 +32,7 @@ export default function About() {
 
           <div className="space-y-6 text-zinc-400 text-base md:text-lg leading-relaxed" data-aos="fade-up" data-aos-delay="200">
             <p>
-              I'm Govind GS — a passionate Full Stack Web Developer from Chennai, Tamil Nadu. I love bringing ideas to life through clean, performant and beautifully designed web applications.
+              I'm Govind GS — a passionate Full Stack Web Developer from Kanpur, Uttar Pradesh. I love bringing ideas to life through clean, performant and beautifully designed web applications.
             </p>
             <p>
               With expertise across the MERN stack (MongoDB, Express.js, React.js, Node.js) and JavaScript, I build everything from intuitive frontends to robust backends — always with a focus on user experience and code quality.
