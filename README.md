@@ -1,4 +1,4 @@
-# Harsh's Portfolio
+# Govind's Portfolio
 
 A personal portfolio website built with React and Vite, showcasing my work, skills, and projects as a Frontend Developer - Fast to load easy to navigate and (hopefully) a little more interesting than my résumé.
 
@@ -47,7 +47,7 @@ npm run build
 ## Folder Structure
 
 ```
-HARSH-S-PORTFOLIO/
+GOVIND-S-PORTFOLIO/
 ├── public/        # Static assets
 ├── src/           # Source code
 ├── index.html     # Entry point
@@ -59,9 +59,11 @@ HARSH-S-PORTFOLIO/
 If something on this site breaks, that's a feature I haven't documented yet. Feel free to reach out for collaborations, opportunities or general feedback.
 
 ---
+
 ## Connect with Me 🤝 :
-- LinkedIn : [Gaurav GS](https://www.linkedin.com/in/govind-singh-5b6473296/)  
-- Gmail : harshaavardhan8@gmail.com
+
+- LinkedIn : [Gaurav GS](https://www.linkedin.com/in/govind-singh-5b6473296/)
+- Gmail : gauravsingh25864@gmail.com
 
 ⭐ Feel free to fork this project and improve it!
 
