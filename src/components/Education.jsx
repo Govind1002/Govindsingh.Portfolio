@@ -41,7 +41,7 @@ export default function Education() {
             <div className="flex-1 md:flex-none md:w-[45%] text-left order-2 md:order-3 ml-4 md:ml-0" data-aos="fade-left">
               <span className="text-xs font-mono text-luxury-yellow tracking-wider font-semibold">Maharana Pratap Engineering College, Kanpur</span>
               <h4 className="font-display font-bold text-xl text-white mt-1">Bachelor of Technologyz — Computer Science &amp; Engineering</h4>
-              <p className="text-sm text-zinc-400 mt-2">Completed B.Tech. in Computer Science and Engineering with a CGPA of 7.8, combining academic theory with hands-on full-stack project experience.</p>
+              <p className="text-sm text-zinc-400 mt-2">Completed B.Tech. in Computer Science and Engineering with a CGPA of 6.8, combining academic theory with hands-on full-stack project experience.</p>
             </div>
           </div>
 
